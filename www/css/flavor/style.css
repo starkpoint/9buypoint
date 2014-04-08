@@ -1,0 +1,40 @@
+/**
+ * Custom CSS
+ * This css file is generated dynamically from the flavor options within your GBS theme, 
+ * any custom CSS added to the "Custom CSS" option within the backend or added by one of
+ * two actions: gb_custom_css & gb_custom_css_after.
+ * 
+ * The registered style slug for this file is 'custom_css'.
+ */
+			.gb_ff, h1, h2, h3, h4, h5 { font-family: Arial, Helvetica, Geneva, sans-serif; } 
+body, .body { font-family: Arial, Helvetica, Geneva, sans-serif; } 
+body {background-color: #ffffff; color: #555555; } 
+.alt_text, a.alt_text {color: #e40045; } 
+h1, h2, h3, h4, h5 {color: #000000; } 
+#header_wrap, #footer_wrap, .header_color, .deal_block, .current_balance, .filter_biz {background-color: #ffffff; color: #555555; } 
+#container, .prime, tr.cart-line-item td.cart-line-item-total, #content .tabs li.ui-state-active a {background-color: #ffffff; color: #555555; } 
+.contrast, #content td.cart-line-item-total, .milestone_pricing li, .project_thumbnail, .no_featured_image, .contrast a, .contrast a:hover, a.contrast, #main_navigation .right_menu li a, #main_navigation .right_menu li a:hover, #locations_header_wrap li a:hover, .contrast h2, #navigation ul.sub-menu {background-color: #e40045; color: #ffffff; } 
+.contrast_light, #content .tabs li a {background-color: #e40045; color: #e40045; } 
+.background_alt, .account_sidebar li.current_page a, .wp-caption, .low_contrast_button, .form-submit.checkout_next_step {background-color: #f2f2f2; color: #545454; } 
+.widget {color: #777777; } 
+#navigation, #main_navigation li a, #navigation ul.sub-menu li a:hover, .account_sidebar a:hover {background-color: #000000; color: #ffffff; } 
+h2.section_heading, legend.section_heading, .section_heading a, .table_heading {background-color: #e40045; color: #e40045; } 
+.prime {border-radius: 0.1em; } 
+.button, .alt_button, input.form-submit, input.button-primary, .cart-claimed a, .contrast a.button, .contrast a.button:hover, .deal_thumbnail img, .deal_meta_wrapper, #deal_countdown, .purchase_info, #milestone_wrap, .loop_thumb, .button_price, .buy_button a span, .current_balance, .account_sidebar a, .current_balance_amount, #locations_header_wrap li a, .biz_content, #deals_loop .post, .dash_section, .merchant_logo {border-radius: 0.1em; } 
+a, .link, .merchant-title a {color: #ffffff; } 
+a:hover, .link:hover, .merchant-title a:hover {color: #e40045; } 
+.alt_link, .alt_link:hover, .header-locations-drop-link, .header-locations-drop-link a, .header-locations-drop-link a:hover, .deal_block a, .deal_block a:hover, .deal_merchant_title a, .deal_merchant_title a:hover {color: #ffffff; } 
+.button, input.form-submit, input.button-primary, .cart-claimed a, .contrast a.button, .contrast a.button:hover, .deal_block a.button {background-color: #e40045; color: #ffffff; } 
+.button:hover, input.form-submit:hover, input.button-primary:hover, .cart-claimed a:hover, .deal_block a.button:hover {background-color: #e40045; color: #ffffff; } 
+.alt_button, thead {background-color: #e4e4e4; color: #888888; } 
+.alt_button:hover {background-color: #e4e4e4; color: #646464; } 
+.alt_button a {color: #888888; } 
+.alt_button a:hover {color: #646464; } 
+input[type="text"], input[type="password"], textarea {background-color: #eeeeee; color: #000000; } 
+.font_medium, body, .add-to-cart option {font-size: 1em; } 
+.font_xx_small {font-size: 0.8em; } 
+.font_x_small, .countdown_section {font-size: 0.8em; } 
+.font_small, .widget_info {font-size: 0.8em; } 
+.font_large {font-size: 1.2em; } 
+.font_x_large {font-size: 1.3em; } 
+.font_xx_large, #deal_countdown .countdown_amount {font-size: 1.4em; } 
